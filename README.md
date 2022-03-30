@@ -1,4 +1,5 @@
-# EntropyIsNotOnYourSide
+# [EntropyIsNotOnYourSide](https://velog.io/@urtimeislimited/Entropy-is-not-on-your-side)
+
 노력하는 것을 노력해야 하는 이유
 요약
 1. 엔트로피의 정렬과 재배열을 게을리한다면 우리의 노력은 점차 의미가 없어지고 쇠퇴할 것입니다.
